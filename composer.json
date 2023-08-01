@@ -1,0 +1,17 @@
+{
+    "name": "dashweb/budgetinvoice",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Dashweb\\Budgetinvoice\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Danny Veldhoen",
+            "email": "info@budgetinvoice.com"
+        }
+    ],
+    "require": {}
+}
